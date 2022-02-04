@@ -279,14 +279,14 @@ class PHPMailer
      *
      * @var string
      */
-    public $Host = 'localhost';
+    public $Host = 'servidor.hostgator.com.br';
 
     /**
      * The default SMTP server port.
      *
      * @var int
      */
-    public $Port = 25;
+    public $Port = 465;
 
     /**
      * The SMTP HELO/EHLO name used for the SMTP connection.
@@ -339,14 +339,14 @@ class PHPMailer
      *
      * @var string
      */
-    public $Username = '';
+    public $Username = 'contato@graciellepestana.com';
 
     /**
      * SMTP password.
      *
      * @var string
      */
-    public $Password = '';
+    public $Password = 'Grapha21';
 
     /**
      * SMTP auth type.
