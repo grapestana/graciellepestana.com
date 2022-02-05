@@ -3534,6 +3534,9 @@ figure{margin: 0;}
 .tab-style3 .nav-tabs>li>a.nav-link, .tab-style3 .nav-tabs>li>a.nav-link:focus, .tab-style3 .nav-tabs>li>a.nav-link.active:hover, .tab-style3 .nav-tabs>li>a.nav-link:hover {background-color: transparent; border: none; padding: 0;}
 .tab-style3 .nav-tabs li a.nav-link.active, .tab-style3 .nav-tabs>li>a.nav-link.active:hover {border-bottom: 1px solid #232323;}
 .tab-style3 .nav-link:hover {color: var(--base-color);}
+.tab-style3 .nav-tabs > li > a, .tab-style1 .nav-tabs > li > a:focus, .tab-style1 .nav-tabs > li > a:hover{border: none; background-color: transparent;}
+.tab-style3 .nav-tabs li:hover i, .tab-style1 .nav-tabs li .active i{color: var(--base-color);}
+.tab-style3 .nav-tabs li:hover span, .tab-style1 .nav-tabs li .active span{color: #232323;}
 
 /* tab style 4 */
 .tab-style4 .tab-content{padding:0 0 0 55px; border-left: 1px solid #e5e5e5;}
