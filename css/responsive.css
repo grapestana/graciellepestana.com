@@ -2720,6 +2720,7 @@
     section.big-section {padding:120px 0;}
     section.extra-big-section {padding: 150px 0;}
     section.half-section {padding:40px 0;}
+    section.halfhalf-section {padding:20px 0; !important}
 
     /* header style */
     header * { transition-timing-function: none; -moz-transition-timing-function: none; -webkit-transition-timing-function: none; -o-transition-timing-function: none; -ms-transition-timing-function: none; transition-duration: 0s; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -ms-transition-duration: 0s; -o-transition-duration: 0s; }
